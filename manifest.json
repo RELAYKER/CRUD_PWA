@@ -1,0 +1,18 @@
+{
+    "name": "CRUD con PHP - MySQL",
+    "short_name": "CRUD PHP",
+    "description": "Aplicación CRUD para gestionar alumnos",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff",
+    "icons": [
+      {
+        "src": "imgs/logo.png",
+        "sizes": "225x225",
+        "type": "image/png"
+      }
+
+    ]
+  }
+  
